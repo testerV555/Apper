@@ -1,0 +1,6 @@
+{
+  "name": "Vaynet",
+  "description": "High-speed secure VPN client with neon lightning aesthetics, real-time speed meter, auto-update subscriptions, and isolated secure configs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
